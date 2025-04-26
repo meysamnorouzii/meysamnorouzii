@@ -7,7 +7,7 @@
 
 
 
-- 👀 I'm a self-taught developer.<br>Designing and implementing web applications, continuous learning and writing software are my interests.<br>And I pursue my interests in a focused and motivated way.
+- 👀 I am a Front-End Developer with over 3 years of professional experience in designing and implementing modern, scalable user interfaces. My expertise lies in technologies such as React, Next.js, and Redux, with hands-on experience in building SPAs and admin dashboards. Driven by continuous learning and skill development, I am looking for opportunities to advance into a senior role within innovative and challenging teams.
 - 📫 work.meysamnorouzi@gmail.com
 
 
