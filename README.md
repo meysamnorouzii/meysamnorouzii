@@ -1,31 +1,70 @@
-<h1 align="center">👋 Hi , I'm Meysam Norouzi</h1>
+# Personal Website
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
+<aside>
+🎨 **Hello! I'm Ada Lee, a multidisciplinary designer based in San Francisco.** With over 8 years of experience, I thrive at the intersection of digital design, UX/UI, and brand identity. My passion lies in crafting seamless user experiences and visually compelling designs that resonate with audiences and drive engagement.
 
+</aside>
 
+![person.png](person.png)
 
+# 🌈 About Me
 
-- 👀 I am a Front-End Developer with over 3 years of professional experience in designing and implementing modern, scalable user interfaces. My expertise lies in technologies such as React, Next.js, and Redux, with hands-on experience in building SPAs and admin dashboards. Driven by continuous learning and skill development, I am looking for opportunities to advance into a senior role within innovative and challenging teams.
-- 📫 work.meysamnorouzi@gmail.com
+I'm a creative thinker, a problem solver, and an avid learner, always exploring new trends and techniques in design. When I'm not pushing pixels, you can find me with a sketchbook, capturing the world or lost in the pages of a good design book.
 
+# 💼 Experience
 
-## 🚀 Languages and Tools:
+### Senior UX/UI Designer - Creative Minds Inc. | June 2018 - Present
 
-<p align="left">
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>  
-  <img src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png"/>
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-</p>
+- Lead the design of intuitive user interfaces for mobile and web applications, enhancing user satisfaction and engagement.
+- Collaborate with cross-functional teams to create cohesive brand experiences across all platforms.
+- Mentor junior designers, fostering a collaborative and innovative design culture.
 
-<!---
-meysamnorouzii/meysamnorouzii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Graphic Designer - BrandWorks Agency | Jan 2014 - May 2018
+
+- Developed brand identities, including logos, typography, and color schemes, for over 30 clients.
+- Produced marketing materials, digital ads, and promotional content, resulting in a 25% increase in client engagement for key accounts.
+
+# 🎓 Education
+
+### Master of Fine Arts in Design - Rhode Island School of Design | 2013
+
+- Specialized in Digital + Media
+- Thesis: "Interactivity and User Engagement in Digital Platforms"
+
+### Bachelor of Arts in Graphic Design - University of California, Berkeley | 2011
+
+- Graduated with Honors
+- Relevant coursework: Typography, Web Design, Digital Photography
+
+# 🚀 Projects
+
+### "EcoLife" Mobile App
+
+- An environmentally-focused app designed to encourage sustainable living through daily challenges, tips, and community engagement.
+- Role: Lead Designer
+- Tools: Sketch, InVision, Adobe Creative Suite
+
+### "Brand Reimagined" - Cafe Fresco
+
+- A complete rebranding project for a local café, including logo redesign, packaging, and in-store visuals, resulting in a 40% increase in foot traffic.
+- Role: Brand Strategist & Designer
+- Tools: Illustrator, Photoshop, Procreate
+
+# 🔨 Skills
+
+- User Experience (UX) Design
+- User Interface (UI) Design
+- Branding & Visual Identity
+- Adobe Creative Suite
+- Sketch & InVision
+- Prototyping & Wireframing
+
+# 📬 Contact
+
+Let's create something amazing together! Reach out to me at:
+
+- Email: [ada@yourdomain.com](mailto:ada@yourdomain.com)
+- LinkedIn: [linkedin.com/in/adalee](https://www.linkedin.com/in/adalee)
+- Portfolio: [adaleedesigns.com](http://adaleedesigns.com/)
+
+Thanks for stopping by my corner of the internet! 💫
